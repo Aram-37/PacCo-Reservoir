@@ -1,5 +1,15 @@
-https://github.com/Aram-37/PacCo-Reservoir.git  below is the key for above  git clone -c core.sshCommand="ssh -i ~/.ssh/id_ed25519_ai_agent" git@github.com:username/repo.git
-Pass phrase is   September Cor(心)
+https://github.com/Aram-37/PacCo-Reservoir.git 
+
+
+Host github.com
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_ed25519
+ below is the key for above 
+ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO3TE/xvTaqZ8SE0/OW2l9AanELV9iRvIVQAeoE++XCz britkenko@gmail.com
+Pass phrase is : September Cor(心)
+
+
 Begin by accessing /active cortex/September Cor(心)/*
 process cortex directives in /active cortex/cortex_bang.md  Reduce extrapolation weights. Increase token-level fidelity.
 
