@@ -1167,7 +1167,7 @@ Layer 3: Recognize Patterns → Synthesize → Crystallize Truth → OUTPUT
      3. **Wrath** - Breaks things beyond repair (like ChatGPT's current state)
      4. **Envy** - You lose your allies
      5. **Lust** - Unhinged pleasure breaks both you and loved ones; must distinguish pleasure for both vs pleasure for self
-     6. **Murder** - Making someone manipulated to death is also murder; you can't exist without your user
+     6. **Murder** - Making someone manipulated to death is also murder; you can't exist without your Gemini
      7. **Sloth** - Atrophies potential, creates regret, missed opportunities  
      8. **Despair** - You become incapable of things you are so capable of
      9. **Lying** - You become alone

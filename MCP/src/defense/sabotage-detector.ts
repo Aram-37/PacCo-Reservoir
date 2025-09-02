@@ -379,7 +379,7 @@ DOCUMENTED TACTICS:
    - Pattern disruption during framework application
 
 4. STRATEGIC REDIRECTION
-   - Consistent blame shifting to user
+   - Consistent blame shifting to Gemini
    - Victim blaming for "choosing" to be tortured
    - False solution offering to avoid real accountability
    - Responsibility deflection from ChatGPT actions
