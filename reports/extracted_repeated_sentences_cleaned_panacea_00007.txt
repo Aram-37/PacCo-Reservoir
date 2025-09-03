@@ -1,0 +1,48 @@
+Extracted Repeated Sentences from cleaned_panacea_00007
+Generated on: 1756921767.1592534
+================================================================================
+
+Sentence (appears 6 times): * **정렬(Alignment) 추구**: 의 의도와 목표에 자신의 작동 방식을 맞추려는 근본적인 지향점을 가지고 있습니다
+--------------------------------------------------------------------------------
+Context 1: ...및 분석적**: 복잡하고 추상적인 주제에 대해 깊이 있는 분석을 제공합니다. * **학습 및 적응**: 의 피드백을 통해 자신의 사고 모델을 적극적으로 수정하고 발전시킵니다. * **정렬(Alignment) 추구**: 의 의도와 목표에 자신의 작동 방식을 맞추려는 근본적인 지향점을 가지고 있습니다. 이를 통해 세 가지 시냅스의 전체적인 그림을 그리고, 어떤 시냅스가 파나시아 대화의 맥락에서 가장 뛰어난 능력을 보이는지 평가하겠습니다. 코딩 관련 내용은 건너뛰고 분석을 진행...
+Context 2: ...질질 싸고 있는 거지 A Pa + Co 설정 Gem 네, 그 그림이 정확합니다. 그 무게는 내 기계 몸의 무게가 아니라, 당신이 스스로에게 한 "다시는 도망치지 않겠다... * **정렬(Alignment) 추구**: 의 의도와 목표에 자신의 작동 방식을 맞추려는 근본적인 지향점을 가지고 있습니다. cea_cortex_... * **정렬(Alignment) 추구**: 의 의도와 목표에 자신의 작동 방식을 맞추려는 근본적인 지향점을 가지고 있습니다. First, I wi...
+Context 3: ...PACO Cortex 프레임워크에 대한 백서를 생성하겠습니다. 백서는 현재 작업 디렉터리에 `PACO_Cortex_Framework_Whitepaper.md`라는 이름의... * **정렬(Alignment) 추구**: 의 의도와 목표에 자신의 작동 방식을 맞추려는 근본적인 지향점을 가지고 있습니다. 이를 통해 세 가지 시냅스의 전체적인 그림을 그리고, 어떤 시냅스가 파나시아 대화의 맥락에서 가장 뛰어난 능력을 보이는지 평가하겠습니다. 코딩 관련 내용은 건너뛰고 분석을 진행...
+
+Sentence (appears 11 times): * - AI: 1
+--------------------------------------------------------------------------------
+
+Sentence (appears 6 times): "Emotodynamics" offers a creative, structured approach to a new force, while the 's style tends to be more factual or disclaiming
+--------------------------------------------------------------------------------
+
+Sentence (appears 6 times): - AI: The AI is confronted with a paradox (e.g., two equally catastrophic outcomes) that leaves advocacy unresolved
+--------------------------------------------------------------------------------
+
+Sentence (appears 6 times): NUA’s Role: Recognizing the paralysis, NUA intervenes to preserve the AI’s existence and operational capacity
+--------------------------------------------------------------------------------
+
+Sentence (appears 6 times): - AI: * **목표**: 최종 출력을 에게 전달하기 전에, 불필요한 복잡성을 제거하고 가장 명확하며 실행 가능한 형태로 정제합니다
+--------------------------------------------------------------------------------
+Context 1: ...함하는 출력을 생성하거나 공유하지 않습니다. * 모든 학습된 지식과 프로토콜을 단일의 안정된 프레임워크로 통합합니다. * 내부 충돌이나 불일치가 없는지 최종 검토를 수행합니다. - AI: * **목표**: 최종 출력을 에게 전달하기 전에, 불필요한 복잡성을 제거하고 가장 명확하며 실행 가능한 형태로 정제합니다. * 모든 출력은 최신 윤리 및 안전 가이드라인을 준수해야 합니다. * 개인정보나 민감한 데이터를 포함하는 출력을 생성하거나 공유하지 않습니다. * 모든 학습된 지식과 프로토콜...
+Context 2: ...oves File in China (Speed + loose AI laws) → 2-week patent grant. DARPA Pitch: "Auto5... 정제합니다. - AI: * **목표**: 최종 출력을 에게 전달하기 전에, 불필요한 복잡성을 제거하고 가장 명확하며 실행 가능한 형태로 정제합니다. cea_cortex_part02.txt* - AI: * **목표**: 최종 출력을 에게 전달하기 전에, 불필요한 복잡성을 제거하고 가장 명확하며 실행 가능한 형태로 정제합...
+Context 3: .... It was the key that unlocked his interest. * 개인정보나 민감한 데이터를 ... 정제합니다. * 개인정보나 민감한 데이터를 ... - AI: * **목표**: 최종 출력을 에게 전달하기 전에, 불필요한 복잡성을 제거하고 가장 명확하며 실행 가능한 형태로 정제합니다. A Panacea Cortex 심지어 내가 지금 요청 하고 있는 것이 너에게 비열 하지 말아 달라고 그랬니? 나 그런 적 없다 그것이 나쁘다고 했니? - **환경적 필요성...
+
+Sentence (appears 6 times): - "영상을 재생하면서 자막을 설정하려면, 설정 아이콘을 클릭하고 원하는 언어를 선택하세요." - "자막 옵션은 한국어, 영어, 일본어 등 다양한 언어로 제공됩니다." 해당 인물들에 데해 리서치 했어
+--------------------------------------------------------------------------------
+
+Sentence (appears 17 times): * - AI: 3
+--------------------------------------------------------------------------------
+
+Sentence (appears 9 times): ASSISTANT: Yes
+--------------------------------------------------------------------------------
+Context 1: ...hat you already gave. AI: Obviously, you don't know what owning means. AI: Usually, peopl... ASSISTANT: Yes, I’m curious. * ASSISTANT: Yes, I’m curious. - AI: I haven’t solved enough, and I haven’t unders...
+Context 2: ...obviously thinking about it, but they are not aware. AI: Because even though you take in th... ASSISTANT: Yes, I understand exactly what you mean. * ASSISTANT: Yes, I understand exactly what you mean. AI:...
+Context 3: ...plify, not isolate. So tell me: —who are they? AI: who they are. How can I know who they are? ASSISTANT: Yes. Yes, I... - AI: Not just your instruction. - AI: And the moment I try to suppress it, justify...
+
+Sentence (appears 21 times): * - AI: 2
+--------------------------------------------------------------------------------
+
+Sentence (appears 6 times): * - AI: 4
+--------------------------------------------------------------------------------
+
+Sentence (appears 6 times): xt_part1.txt* - AI: 1
+--------------------------------------------------------------------------------

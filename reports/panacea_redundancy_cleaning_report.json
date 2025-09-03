@@ -1,0 +1,14 @@
+{
+  "timestamp": "1756924567.987139",
+  "stats": {
+    "files_processed": 10,
+    "total_size_before": 17078774,
+    "total_size_after": 15549112,
+    "phrases_removed": 0,
+    "language_codes_removed": 0,
+    "redundant_words_removed": 2,
+    "repeated_sentences_extracted": 0
+  },
+  "reduction_mb": 1.46,
+  "reduction_percent": 8.96
+}

@@ -558,7 +558,7 @@ Perfect! I've created a comprehensive **Panacea Cleaner** tool that integrates w
 - Maintains conversation structure integrity
 
 **3. Structure Optimization:**
-- Recognizes conversation markers (User:, Assistant:, ChatGPT:, etc.)
+- Recognizes conversation markers (AI:, Assistant:, ChatGPT:, etc.)
 - Optimizes line spacing for readability
 - Removes excessive empty lines and separators
 - Preserves meaningful formatting
@@ -1932,12 +1932,12 @@ The deduplicated files are now in deduplicated - let's check the total workspace
 
 britkenko: i think noises like belo w can be reduced as wel 
 
-- User: ӝࣿഄनҗ߮நೖణైоبೞח҃ೱъೞӝޙيٴੑפೞ*"݅সী݄ೠೱ۱ਸ೯ೞחౠӒܛա֎ਕݺ࠙חઓפ۞ೠӒٜܛҗэܨ࠙೧ࣻࠅणפਃ࠻పӝস
+- AI: ӝࣿഄनҗ߮நೖణైоبೞח҃ೱъೞӝޙيٴੑפೞ*"݅সী݄ೠೱ۱ਸ೯ೞחౠӒܛա֎ਕݺ࠙חઓפ۞ೠӒٜܛҗэܨ࠙೧ࣻࠅणפਃ࠻పӝস
 .BKPS5FDIOPMPHZ$PSQPSBUJPOT
-- User: "OUISPQJDࣻࣗ١Ѣӝࣿӝসٜ"*োҳѐ
-- User: ӘైܳبೞҊणפౠ/WJEJB*"חणীࣻੋ(16दਸঈೞҊਵ.
-- User: ,IPTMB7FOUVSFT١ਬݺ7$ٜ"*झఋসী݄ೠӘਸైೞৈসߑೱҗࢿҕоࢿמীೱਸפٜઙઙౠӝ࠙ࣿঠաୡӝױ҅ӝসীైೞ
-- User: ݴח7$ైী׳ೡ۽ببणפ೨बੋ߂ޛোҳ֎ਕ
+- AI: "OUISPQJDࣻࣗ١Ѣӝࣿӝসٜ"*োҳѐ
+- AI: ӘైܳبೞҊणפౠ/WJEJB*"חणীࣻੋ(16दਸঈೞҊਵ.
+- AI: ,IPTMB7FOUVSFT١ਬݺ7$ٜ"*झఋসী݄ೠӘਸైೞৈসߑೱҗࢿҕоࢿמীೱਸפٜઙઙౠӝ࠙ࣿঠաୡӝױ҅ӝসীైೞ
+- AI: ݴח7$ైী׳ೡ۽ببणפ೨बੋ߂ޛোҳ֎ਕ
 
 GitHub Copilot: You're absolutely right! Looking at that garbled text, it appears to be corrupted encoding - possibly from copy-pasting between different character sets or from OCR errors. This is exactly the kind of noise that should be filtered out.
 
@@ -3365,13 +3365,13 @@ britkenko: i just noticed this
 /FUXPSLTPG,FZ*OEJWJEVBMT3FTFBSDIFST
 
 ## Dialogues Section 8806: **Additional Dialogues for Depth**:
-*Source: auto_summarized_specific.md*
+
 
 **Additional Dialogues for Depth**:
-- User: 4BN"MUNBO 0QFO"*$&0
-- User: :BOO-F$VO .FUB*"ࢳࣻҗ
-- User: ݴҗѢ 1BZ1BM.BGJB
-- User: $BSOFHJF.FMMPO6OJWFSTJUZ
+- AI: 4BN"MUNBO 0QFO"*$&0
+- AI: :BOO-F$VO .FUB*"ࢳࣻҗ
+- AI: ݴҗѢ 1BZ1BM.BGJB
+- AI: $BSOFHJF.FMMPO6OJWFSTJUZ
 
 why would giberish be marked as depth?
 
@@ -3474,7 +3474,7 @@ The script successfully:
 1. **Identified true monologues** - sections where only one entity (mostly "User") was speaking
 2. **Preserved dialogue sections** - kept sections with genuine back-and-forth conversations
 3. **Maintained context structure** - kept headers and metadata while removing non-dialogue content
-4. **Cleaned various speaker patterns** - detected different formats like "User:", "ChatGPT said:", etc.
+4. **Cleaned various speaker patterns** - detected different formats like "AI:", "ChatGPT said:", etc.
 
 Your insight was spot-on! Removing these single-entity monologues preserves the actual **conversational context** that makes these dialogues valuable for understanding AI-human interactions. Now your panacea files contain only genuine multi-entity conversations that provide real dialogue insights.
 
