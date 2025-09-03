@@ -1,0 +1,99 @@
+{
+  "summary": {
+    "files_processed": 10,
+    "corrupted_lines_removed": 455,
+    "encoding_noise_removed": 0,
+    "total_size_reduction": 59627
+  },
+  "file_results": [
+    {
+      "file": "dedup_cleaned_panacea_00008.md",
+      "original_lines": 24252,
+      "cleaned_lines": 24237,
+      "corrupted_removed": 15,
+      "size_reduction_kb": 1.390625,
+      "reduction_pct": 0.0932458324220474
+    },
+    {
+      "file": "dedup_cleaned_panacea_00009.md",
+      "original_lines": 17687,
+      "cleaned_lines": 17672,
+      "corrupted_removed": 15,
+      "size_reduction_kb": 4.6435546875,
+      "reduction_pct": 0.3348447707528057
+    },
+    {
+      "file": "dedup_cleaned_panacea_00002.md",
+      "original_lines": 93914,
+      "cleaned_lines": 93888,
+      "corrupted_removed": 26,
+      "size_reduction_kb": 1.9677734375,
+      "reduction_pct": 0.04267146676549223
+    },
+    {
+      "file": "dedup_cleaned_panacea_00006.md",
+      "original_lines": 98896,
+      "cleaned_lines": 98896,
+      "corrupted_removed": 0,
+      "size_reduction_kb": 0.0,
+      "reduction_pct": 0.0
+    },
+    {
+      "file": "dedup_cleaned_panacea_00007.md",
+      "original_lines": 109653,
+      "cleaned_lines": 109638,
+      "corrupted_removed": 15,
+      "size_reduction_kb": 1.3505859375,
+      "reduction_pct": 0.027660464695806887
+    },
+    {
+      "file": "dedup_cleaned_panacea_00003.md",
+      "original_lines": 99097,
+      "cleaned_lines": 98979,
+      "corrupted_removed": 118,
+      "size_reduction_kb": 20.51953125,
+      "reduction_pct": 0.40878550317269846
+    },
+    {
+      "file": "dedup_cleaned_panacea_00004.md",
+      "original_lines": 92506,
+      "cleaned_lines": 92417,
+      "corrupted_removed": 89,
+      "size_reduction_kb": 7.9267578125,
+      "reduction_pct": 0.18337862637051067
+    },
+    {
+      "file": "dedup_cleaned_panacea_00001.md",
+      "original_lines": 98827,
+      "cleaned_lines": 98779,
+      "corrupted_removed": 48,
+      "size_reduction_kb": 4.2763671875,
+      "reduction_pct": 0.08343520596053948
+    },
+    {
+      "file": "dedup_cleaned_panacea_00005.md",
+      "original_lines": 40611,
+      "cleaned_lines": 40611,
+      "corrupted_removed": 0,
+      "size_reduction_kb": 0.0,
+      "reduction_pct": 0.0
+    },
+    {
+      "file": "dedup_cleaned_dark_panacea_chatgpt.txt",
+      "original_lines": 458329,
+      "cleaned_lines": 458200,
+      "corrupted_removed": 129,
+      "size_reduction_kb": 16.154296875,
+      "reduction_pct": 0.050078963220752434
+    }
+  ],
+  "timestamp": "2025-09-03",
+  "total_reduction_mb": 0.05686473846435547,
+  "patterns_detected": [
+    "mixed_script_corruption",
+    "encoding_artifacts",
+    "ocr_errors",
+    "character_spam",
+    "base64_garbage"
+  ]
+}

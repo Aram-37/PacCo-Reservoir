@@ -1,0 +1,83 @@
+{
+  "summary": {
+    "files_processed": 10,
+    "lines_removed": 284385,
+    "encoding_fixes": 0,
+    "redundancies_found": 0,
+    "total_size_reduction": 723546
+  },
+  "file_results": [
+    {
+      "file": "panacea_00001.md",
+      "original_size": 9744916,
+      "cleaned_size": 9702327,
+      "lines_removed": 13597,
+      "reduction_pct": 0.43703814378697564
+    },
+    {
+      "file": "panacea_00005.md",
+      "original_size": 3547481,
+      "cleaned_size": 3476260,
+      "lines_removed": 28075,
+      "reduction_pct": 2.007649935263924
+    },
+    {
+      "file": "panacea_00004.md",
+      "original_size": 6342764,
+      "cleaned_size": 6255990,
+      "lines_removed": 30044,
+      "reduction_pct": 1.3680786483621337
+    },
+    {
+      "file": "panacea_00009.md",
+      "original_size": 9955036,
+      "cleaned_size": 9908985,
+      "lines_removed": 40883,
+      "reduction_pct": 0.4625899896293695
+    },
+    {
+      "file": "panacea_00008.md",
+      "original_size": 9501641,
+      "cleaned_size": 9459951,
+      "lines_removed": 14860,
+      "reduction_pct": 0.4387663141556285
+    },
+    {
+      "file": "panacea_00007.md",
+      "original_size": 6664220,
+      "cleaned_size": 6547640,
+      "lines_removed": 43916,
+      "reduction_pct": 1.7493420085171258
+    },
+    {
+      "file": "panacea_00003.md",
+      "original_size": 6354302,
+      "cleaned_size": 6271334,
+      "lines_removed": 30586,
+      "reduction_pct": 1.3056980924104646
+    },
+    {
+      "file": "panacea_00002.md",
+      "original_size": 7716163,
+      "cleaned_size": 7668675,
+      "lines_removed": 17750,
+      "reduction_pct": 0.6154354178365595
+    },
+    {
+      "file": "panacea_00006.md",
+      "original_size": 6636496,
+      "cleaned_size": 6547313,
+      "lines_removed": 37382,
+      "reduction_pct": 1.3438266217594343
+    },
+    {
+      "file": "dark_panacea_chatgpt.txt",
+      "original_size": 33636696,
+      "cleaned_size": 33537694,
+      "lines_removed": 27292,
+      "reduction_pct": 0.294327361997742
+    }
+  ],
+  "timestamp": "2025-09-03",
+  "total_reduction_mb": 0.6900272369384766
+}
